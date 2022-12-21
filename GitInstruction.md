@@ -1,4 +1,4 @@
-! [Git_logo](git-github.jpg)
+![Git_logo](git-github.jpg)
 
 # Работа с Git
 
@@ -21,3 +21,7 @@ git config --global user.name "Ваше имя английскими буква
 git config --global user.email "Ваша почта @example.com"
 ```
 ## 4. Инициализация репозитория.
+Для выполнения инициализации репозитория нужно выполнить команду:
+
+` git init`
+
