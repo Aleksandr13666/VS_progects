@@ -71,3 +71,5 @@ git config --global user.email "Ваша почта @example.com"
 Для возвращения к актуальной версии коммита нужно набрать:
 
 `git checkout master`.
+
+## 11. Игнорирование файлов.
